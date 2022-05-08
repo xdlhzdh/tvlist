@@ -35,12 +35,18 @@ http://117.148.179.169/PLTV/88888888/224/3221231693/index.m3u8
 http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
 http://117.148.179.167/PLTV/88888888/224/3221231772/index.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6高清
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231729/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231447/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
-http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
 http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
@@ -87,13 +93,47 @@ http://117.148.179.160/PLTV/88888888/224/3221231441/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png",厦门卫视
 http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-1
+http://epg.112114.xyz/douyu/5423
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-1
+http://epg.112114.xyz/douyu/315131
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-2
+http://epg.112114.xyz/douyu/1165374
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-3
+http://epg.112114.xyz/douyu/4282654
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-4
+http://epg.112114.xyz/douyu/6140589
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-5
+http://epg.112114.xyz/douyu/6537888
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-6
+http://epg.112114.xyz/douyu/8770422
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-7
+http://epg.112114.xyz/douyu/8814650
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-8
+http://epg.112114.xyz/douyu/9651304
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-9
+http://epg.112114.xyz/douyu/85894
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-10
+http://epg.112114.xyz/douyu/4332
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-11
+http://epg.112114.xyz/douyu/252802
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-12
+http://epg.112114.xyz/douyu/20415
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-13
+http://epg.112114.xyz/douyu/9826611
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-14
+http://epg.112114.xyz/douyu/323876#
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-15
+http://epg.112114.xyz/douyu/9292492
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-16
+http://epg.112114.xyz/douyu/2436390
 #EXTINF:-1 group-title="地方",上海人文
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="地方",上海影视
 http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="地方",上海外语
 http://183.207.255.188/live/program/live/wypdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg",上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="地方",上海法制
 http://183.207.255.188/live/program/live/fztd/1300000/mnf.m3u8
@@ -103,26 +143,32 @@ http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 #EXTINF:-1 group-title="地方",上海生活
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="上海" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
+#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png",上海纪实
 http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="地方",浙江影视台
-http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
+#EXTINF:-1 group-title="地方",浙江6套FHD
+http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
+#EXTINF:-1 group-title="地方",浙江新闻FHD
+http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
+#EXTINF:-1 group-title="地方",浙江国际FHD
+http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
+#EXTINF:-1 group-title="地方",浙江经视FHD
+http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
+#EXTINF:-1 group-title="地方",浙江影视娱乐FHD
+http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
+#EXTINF:-1 group-title="地方",杭州影视FHD
+http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
 #EXTINF:-1 group-title="地方",浙江少儿台
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江教育台
 http://hw-m-l.cztv.com/channels/lantian/channel04/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江钱江台
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 group-title="地方",浙江休闲台
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 group-title="地方",浙江经济台
-http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 group-title="地方",浙江新闻台
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg",浙江留学世界台
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
 #EXTINF:-1 group-title="地方",浙江数码时代
 http://yd-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 group-title="地方",萧山综合频道
+http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
 #EXTINF:-1 group-title="地方",浙江舟山综合台
 http://live.wifizs.cn/xwzh/sd/live.m3u8
 #EXTINF:-1 group-title="地方",浙江舟山生活台
@@ -133,12 +179,24 @@ http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8
 http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 #EXTINF:-1 group-title="地方",浙江绍兴公共台
 http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8
-#EXTINF:-1 group-title="地方",湖南娄底综合台
-http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
-#EXTINF:-1 group-title="地方",湖南湘潭综合台
-http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
-#EXTINF:-1 group-title="地方",湖南张家界公共
-http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
+#EXTINF:-1 group-title="地方",馀姚新闻综合
+http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
+#EXTINF:-1 group-title="地方",嵊州新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
+#EXTINF:-1 group-title="地方",上虞新闻综合
+http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+#EXTINF:-1 group-title="地方",上虞经济文化
+http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
+#EXTINF:-1 group-title="地方",上虞新商都
+http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
+#EXTINF:-1 group-title="地方",舟山群岛旅游
+http://live.wifizs.cn/qdly/sd/live.m3u8
+#EXTINF:-1 group-title="地方",海盐新闻频道
+http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
+#EXTINF:-1 group-title="地方",南京新闻综合
+http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
+#EXTINF:-1 group-title="地方",徐州4FHD
+http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
 #EXTINF:-1 group-title="地方",江苏张家港综合
 http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
 #EXTINF:-1 group-title="地方",江苏张家港民生
@@ -165,6 +223,12 @@ http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
 #EXTINF:-1 group-title="地方",福建福州影视台
 http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
+#EXTINF:-1 group-title="地方",湖南娄底综合台
+http://mms.ldntv.cn:1935/live/zonghe/playlist.m3u8
+#EXTINF:-1 group-title="地方",湖南湘潭综合台
+http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
+#EXTINF:-1 group-title="地方",湖南张家界公共
+http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
 #EXTINF:-1 group-title="地方",陕西西安新闻台
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 #EXTINF:-1 group-title="地方",吉林都市
@@ -193,44 +257,16 @@ http://stream1.huaihai.tv/ggpd/playlist.m3u8
 http://stream1.huaihai.tv/xwzh/playlist.m3u8
 #EXTINF:-1 group-title="地方",江苏徐州生活
 http://stream1.huaihai.tv/jjsh/playlist.m3u8
-#EXTINF:-1 group-title="地方",浙江6套FHD
-http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8?k=7902d458851930a3cab9763349e1425c&t=1577153702
-#EXTINF:-1 group-title="地方",浙江公共FHD
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8?k=4812130c6c3788cf5c6a6ba64a47678c&t=1577153743
-#EXTINF:-1 group-title="地方",浙江国际FHD
-http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
-#EXTINF:-1 group-title="地方",浙江经视FHD
-http://yd-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8?k=3bc164885721feecc386b066a39b8567&t=1577153471
-#EXTINF:-1 group-title="地方",浙江影视娱乐FHD
-http://yd-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8?k=79b277c166767a9e072b9629b446d4e9&t=1577153637
-#EXTINF:-1 group-title="地方",杭州影视FHD
-http://hms24nc1972679559.live.aikan.miguvideo.com/wh7f454c46tw4264175370_127639391/PLTV/88888888/224/3221229377/index.m3u8?icpid=88888888&RTS=1598530962&from=2&hms_devid=24&online=1598530962
 #EXTINF:-1 group-title="地方",西青新闻综合
 http://221.238.209.44:81/hls/live1.m3u8
--#EXTINF:-1 group-title="地方",萧山综合频道
--http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-#EXTINF:-1 group-title="地方",馀姚新闻综合
-http://l.cztvcloud.com/channels/lantian/SXyuyao2/720p.m3u8
-#EXTINF:-1 group-title="地方",嵊州新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="地方",上虞新闻综合
-http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
-#EXTINF:-1 group-title="地方",上虞经济文化
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
-#EXTINF:-1 group-title="地方",上虞新商都
-http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 #EXTINF:-1 group-title="地方",新昌新闻综合
 http://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
 #EXTINF:-1 group-title="地方",新昌休闲影视
 http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8
 #EXTINF:-1 group-title="地方",洛阳综合
 http://live1.lytv.com.cn:1935/live/LYTV1-1/playlist.m3u8
-#EXTINF:-1 group-title="地方",舟山群岛旅游
-http://live.wifizs.cn/qdly/sd/live.m3u8
 #EXTINF:-1 group-title="地方",北碚综合频道
 http://222.178.181.121:12034/beibei01.m3u8
-#EXTINF:-1 group-title="地方",海盐新闻频道
-http://haiyan.liveyun.hoge.cn/xwpd/sd/live.m3u8
 #EXTINF:-1 group-title="地方",赤峰综合频道
 http://vfile.cfrtv.cn/2017/1484/6248/0267/148462480267.ssm/148462480267.m3u8
 #EXTINF:-1 group-title="地方",哈尔滨新闻
@@ -245,10 +281,6 @@ http://39.135.135.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/inde
 http://39.135.135.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225762/index.m3u8
 #EXTINF:-1 group-title="地方",哈尔滨新闻综合FHD
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="地方",徐州4FHD
-http://183.207.248.11/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 group-title="地方",南京新闻综合
-http://live.nbs.cn/channels/njtv/xwzh/m3u8:500k/live.m3u8
 #EXTINF:-1 group-title="地方",青海综合频道
 http://lmt.scqstv.com/live1/live1.m3u8
 #EXTINF:-1 group-title="地方",青田电视台
@@ -269,8 +301,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 http://61.244.22.4/ch1/ch1.live/index.m3u8
 #EXTINF:-1 group-title="港澳台",澳视葡文
 http://61.244.22.4/ch2/ch2.live/index.m3u8
-#EXTINF:-1 group-title="港澳台",澳视卫星
-https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai.png",大爱1台
 https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/daai2.png",大爱2台
@@ -305,45 +335,3 @@ http://live.cgtn.com/500/prog_index.m3u8
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 group-title="港澳台",日本 I 全天新闻
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6高清
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="斗鱼" ,douyu 5423
-http://epg.112114.xyz/douyu/5423
-#EXTINF:-1 group-title="斗鱼" ,douyu 315131
-http://epg.112114.xyz/douyu/315131
-#EXTINF:-1 group-title="斗鱼" ,douyu 1165374
-http://epg.112114.xyz/douyu/1165374
-#EXTINF:-1 group-title="斗鱼" ,douyu 4282654
-http://epg.112114.xyz/douyu/4282654
-#EXTINF:-1 group-title="斗鱼" ,douyu 6140589
-http://epg.112114.xyz/douyu/6140589
-#EXTINF:-1 group-title="斗鱼" ,douyu 6537888
-http://epg.112114.xyz/douyu/6537888
-#EXTINF:-1 group-title="斗鱼" ,douyu 8770422
-http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 group-title="斗鱼" ,douyu 8814650
-http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 group-title="斗鱼" ,douyu 9651304
-http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 group-title="斗鱼" ,Kagura Video
-http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 group-title="斗鱼" ,Beiye MAX Hall
-http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="斗鱼" ,Pei Ye Cinema
-http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="斗鱼" ,Coke Movie
-http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 group-title="斗鱼" ,Haven Cinemas
-http://epg.112114.xyz/douyu/9826611
-#EXTINF:-1 group-title="斗鱼" ,Xiaoyu 60 frames
-http://epg.112114.xyz/douyu/323876#
-#EXTINF:-1 group-title="斗鱼" ,Comedy Movies
-http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 group-title="斗鱼" ,Video dubbing
-http://epg.112114.xyz/douyu/2436390
