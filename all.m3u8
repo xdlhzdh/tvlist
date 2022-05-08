@@ -9,8 +9,6 @@ http://117.148.179.183/PLTV/88888888/224/3221231682/index.m3u8
 http://117.148.179.182/PLTV/88888888/224/3221231726/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+
-http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
 http://117.148.179.153/PLTV/88888888/224/3221231724/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
@@ -22,11 +20,11 @@ http://117.148.179.162/PLTV/88888888/224/3221231697/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10
 http://117.148.179.175/PLTV/88888888/224/3221231666/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11
-http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
+http://117.148.179.164:80/PLTV/88888888/224/3221231711/1.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12
 http://117.148.179.150/PLTV/88888888/224/3221231660/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13
-http://hw-m-l.cztv.com/channels/lantian/channel16/1080p.m3u8
+http://39.134.66.2/PLTV/88888888/224/3221225812/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
 http://117.148.179.182/PLTV/88888888/224/3221231648/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
@@ -41,7 +39,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 group-title="地方" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg",CHC动作影院
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6高清
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+
+http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6+
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
 http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231729/index.m3u8
@@ -94,8 +94,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png",厦门卫视
 http://117.148.179.134/PLTV/88888888/224/3221229184/index.m3u8
 #EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-1
-http://epg.112114.xyz/douyu/5423
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-1
 http://epg.112114.xyz/douyu/315131
 #EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-2
 http://epg.112114.xyz/douyu/1165374
@@ -104,28 +102,26 @@ http://epg.112114.xyz/douyu/4282654
 #EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-4
 http://epg.112114.xyz/douyu/6140589
 #EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-5
-http://epg.112114.xyz/douyu/6537888
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-6
 http://epg.112114.xyz/douyu/8770422
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-7
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-6
 http://epg.112114.xyz/douyu/8814650
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-8
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-7
 http://epg.112114.xyz/douyu/9651304
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-9
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-8
 http://epg.112114.xyz/douyu/85894
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-10
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-9
 http://epg.112114.xyz/douyu/4332
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-11
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-10
 http://epg.112114.xyz/douyu/252802
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-12
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-11
 http://epg.112114.xyz/douyu/20415
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-13
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-12
 http://epg.112114.xyz/douyu/9826611
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-14
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-13
 http://epg.112114.xyz/douyu/323876#
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-15
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-14
 http://epg.112114.xyz/douyu/9292492
-#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-16
+#EXTINF:-1 group-title="斗鱼" tvg-logo="http://y.qichejiashi.com/tupian/upload/253236592.jpg",douyu 电影-15
 http://epg.112114.xyz/douyu/2436390
 #EXTINF:-1 group-title="地方",上海人文
 http://39.134.66.66/PLTV/88888888/224/3221225673/index.m3u8
